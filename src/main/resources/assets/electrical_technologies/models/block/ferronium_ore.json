@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "electrical_technologies:blocks/ferronium_ore",
+    "particle": "electrical_technologies:blocks/ferronium_ore"
+  }
+}

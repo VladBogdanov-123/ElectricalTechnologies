@@ -1,0 +1,13 @@
+{
+  "group": "electrical_technologies",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "electrical_technologies:ferronium_block"
+    }
+  ],
+  "result": {
+    "item": "electrical_technologies:ferronium_ingot",
+    "count": 9
+  }
+}

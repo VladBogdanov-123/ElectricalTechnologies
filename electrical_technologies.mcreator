@@ -1,0 +1,235 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "FerroniumIngot",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ferronium_ingot"
+    },
+    {
+      "name": "FerroniumOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ferronium_ore"
+    },
+    {
+      "name": "FerroniumBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ferronium_block"
+    },
+    {
+      "name": "FerroniumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ferronium_ore_block_recipe"
+    },
+    {
+      "name": "FerroniumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ferronium_block_ore_recipe"
+    },
+    {
+      "name": "FerroniumOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ferronium_ore_smelting"
+    },
+    {
+      "name": "FerroniumPickaxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ferronium_pickaxe"
+    },
+    {
+      "name": "FerroniumAxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ferronium_axe"
+    },
+    {
+      "name": "FerroniumSword",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ferronium_sword"
+    },
+    {
+      "name": "FerroniumShovel",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ferronium_shovel"
+    },
+    {
+      "name": "FerroniumHoe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ferronium_hoe"
+    },
+    {
+      "name": "FerroniumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ferronium_pickaxe_recipe"
+    },
+    {
+      "name": "FerroniumAxeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ferronium_axe_recipe"
+    },
+    {
+      "name": "FerroniumSwordRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ferronium_sword_recipe"
+    },
+    {
+      "name": "FerroniumShovelRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ferronium_shovel_recipe"
+    },
+    {
+      "name": "FerroniumHoeRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ferronium_hoe_recipe"
+    },
+    {
+      "name": "FerroniumArmor",
+      "type": "armor",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ferronium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "FerroniumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ferronium_armor_helmet_recipe"
+    },
+    {
+      "name": "FerroniumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ferronium_armor_body_recipe"
+    },
+    {
+      "name": "FerroniumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ferronium_armor_leggings_recipe"
+    },
+    {
+      "name": "FerroniumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ferronium_armor_boots_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.electrical_technologies.ferronium_ingot": "Ferronium",
+      "item.electrical_technologies.ferronium_armor_leggings": "Ferronium Leggings",
+      "item.electrical_technologies.ferronium_hoe": "Ferronium Hoe",
+      "item.electrical_technologies.ferronium_armor_helmet": "Ferronium Helmet",
+      "item.electrical_technologies.ferronium_sword": "Ferronium Sword",
+      "item.electrical_technologies.ferronium_armor_chestplate": "Ferronium Chestplate",
+      "item.electrical_technologies.ferronium_shovel": "Ferronium Shovel",
+      "item.electrical_technologies.ferronium_armor_boots": "Ferronium Boots",
+      "block.electrical_technologies.ferronium_ore": "Ferronium Ore",
+      "item.electrical_technologies.ferronium_axe": "Ferronium Axe",
+      "block.electrical_technologies.ferronium_block": "Block of Ferronium",
+      "item.electrical_technologies.ferronium_pickaxe": "Ferronium Pickaxe"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "electrical_technologies",
+    "modName": "Electrical Technologies",
+    "version": "1.0.0",
+    "author": "Animeshnik, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.electricaltechnologies",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

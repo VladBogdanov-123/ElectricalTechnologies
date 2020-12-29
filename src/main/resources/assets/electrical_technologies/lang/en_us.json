@@ -1,0 +1,14 @@
+{
+  "item.electrical_technologies.ferronium_ingot": "Ferronium",
+  "item.electrical_technologies.ferronium_armor_leggings": "Ferronium Leggings",
+  "item.electrical_technologies.ferronium_hoe": "Ferronium Hoe",
+  "item.electrical_technologies.ferronium_armor_helmet": "Ferronium Helmet",
+  "item.electrical_technologies.ferronium_sword": "Ferronium Sword",
+  "item.electrical_technologies.ferronium_armor_chestplate": "Ferronium Chestplate",
+  "item.electrical_technologies.ferronium_shovel": "Ferronium Shovel",
+  "item.electrical_technologies.ferronium_armor_boots": "Ferronium Boots",
+  "block.electrical_technologies.ferronium_ore": "Ferronium Ore",
+  "item.electrical_technologies.ferronium_axe": "Ferronium Axe",
+  "block.electrical_technologies.ferronium_block": "Block of Ferronium",
+  "item.electrical_technologies.ferronium_pickaxe": "Ferronium Pickaxe"
+}

@@ -1,0 +1,12 @@
+{
+  "group": "electrical_technologies",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "electrical_technologies:ferronium_ore"
+  },
+  "result": {
+    "item": "electrical_technologies:ferronium_ingot"
+  }
+}

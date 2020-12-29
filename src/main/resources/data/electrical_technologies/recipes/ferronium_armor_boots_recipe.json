@@ -1,0 +1,26 @@
+{
+  "group": "electrical_technologies",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "electrical_technologies:ferronium_ingot"
+    },
+    "2": {
+      "item": "electrical_technologies:ferronium_ingot"
+    },
+    "3": {
+      "item": "electrical_technologies:ferronium_ingot"
+    },
+    "5": {
+      "item": "electrical_technologies:ferronium_ingot"
+    }
+  },
+  "result": {
+    "item": "electrical_technologies:ferronium_armor_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:FerroniumIngot"
+      },
+      {
+        "value": "CUSTOM:FerroniumIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:FerroniumIngot"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:FerroniumAxe"
+    },
+    "name": "ferronium_axe_recipe",
+    "namespace": "mod"
+  }
+}
