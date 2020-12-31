@@ -195,6 +195,75 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "ferronium_armor_boots_recipe"
+    },
+    {
+      "name": "ElectricalCraftingTable",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "electrical_crafting_table"
+    },
+    {
+      "name": "Elec1",
+      "type": "gui",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "elec_1"
+    },
+    {
+      "name": "ElectricalCraftingTableNaBlokieNazhataPravaiaKnopkaMyshi",
+      "type": "procedure",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "electrical_crafting_table_na_blokie_nazhata_pravaia_knopka_myshi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ElectricalTechnologies",
+      "type": "tab",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "electrical_technologies"
+    },
+    {
+      "name": "DANGEON1",
+      "type": "loottable",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dangeon_1"
     }
   ],
   "variable_elements": [],
@@ -207,12 +276,14 @@
       "item.electrical_technologies.ferronium_armor_helmet": "Ferronium Helmet",
       "item.electrical_technologies.ferronium_sword": "Ferronium Sword",
       "item.electrical_technologies.ferronium_armor_chestplate": "Ferronium Chestplate",
+      "block.electrical_technologies.electrical_crafting_table": "Electrical Crafting Table",
       "item.electrical_technologies.ferronium_shovel": "Ferronium Shovel",
       "item.electrical_technologies.ferronium_armor_boots": "Ferronium Boots",
       "block.electrical_technologies.ferronium_ore": "Ferronium Ore",
       "item.electrical_technologies.ferronium_axe": "Ferronium Axe",
       "block.electrical_technologies.ferronium_block": "Block of Ferronium",
-      "item.electrical_technologies.ferronium_pickaxe": "Ferronium Pickaxe"
+      "item.electrical_technologies.ferronium_pickaxe": "Ferronium Pickaxe",
+      "itemGroup.tabelectrical_technologies": "Electrical Technologies"
     }
   },
   "workspaceSettings": {

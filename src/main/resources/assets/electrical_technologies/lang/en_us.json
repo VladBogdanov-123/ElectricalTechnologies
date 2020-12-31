@@ -5,10 +5,12 @@
   "item.electrical_technologies.ferronium_armor_helmet": "Ferronium Helmet",
   "item.electrical_technologies.ferronium_sword": "Ferronium Sword",
   "item.electrical_technologies.ferronium_armor_chestplate": "Ferronium Chestplate",
+  "block.electrical_technologies.electrical_crafting_table": "Electrical Crafting Table",
   "item.electrical_technologies.ferronium_shovel": "Ferronium Shovel",
   "item.electrical_technologies.ferronium_armor_boots": "Ferronium Boots",
   "block.electrical_technologies.ferronium_ore": "Ferronium Ore",
   "item.electrical_technologies.ferronium_axe": "Ferronium Axe",
   "block.electrical_technologies.ferronium_block": "Block of Ferronium",
-  "item.electrical_technologies.ferronium_pickaxe": "Ferronium Pickaxe"
+  "item.electrical_technologies.ferronium_pickaxe": "Ferronium Pickaxe",
+  "itemGroup.tabelectrical_technologies": "Electrical Technologies"
 }

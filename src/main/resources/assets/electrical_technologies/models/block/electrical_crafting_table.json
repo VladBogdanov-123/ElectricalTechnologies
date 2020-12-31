@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "electrical_technologies:blocks/elec5",
+    "up": "electrical_technologies:blocks/elec2",
+    "north": "electrical_technologies:blocks/elec4",
+    "east": "electrical_technologies:blocks/elec1",
+    "south": "electrical_technologies:blocks/elec6",
+    "west": "electrical_technologies:blocks/elec3",
+    "particle": "electrical_technologies:blocks/elec5"
+  }
+}
